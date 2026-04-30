@@ -1,0 +1,2 @@
+Hello, this is file1
+Hello, this is line 2 in file1
